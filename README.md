@@ -18,7 +18,7 @@ Wenn du online im Browser arbeitest, dann hast du die farbliche Hervorherbung im
 Du kannst dir die ganzen Dateien auch herunterladen und offline Arbeiten. Dann siehst du die Ordnerstruktur vllt übersichtlicher. 
 Ich denke aber, online wird erstmal bequemer für dich sein. 
 
-Überblick, über die ganzen Dateien: 
+### Überblick, über die ganzen Dateien: 
 
 Wichtig für dich sind *.spec.ts-Dateien . 
 Außerdem sind auch Testdaten und Fixtures+Interceptions dabei, die sind Randinfo, kann nützlich sein, muss aber nicht. 
