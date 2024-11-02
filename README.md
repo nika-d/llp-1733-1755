@@ -41,7 +41,7 @@ Die Testdaten können, aber müssen nicht komplett realistisch sein. Es kann sei
 Die *.ts Dateien in $test/playwright und Unterverzeichnissen sind sogenannte fixtures und/oder interceptions. Die brauchst du erstmal nicht im Detail anzugucken. Eigentlich könnten davon nur die Benennungen, möglicherweise auch die "Zwischenüberschriften" innerhalb der Dateien, für dich nützlich sein, deswegen habe ich sie dazugetan. Nur als Randinfo: 
 
 * Fixture: Hilfsmethode für Tests, z.B. Drawer öffnen, MultipleChoiceFilter-Optionen auswählen und ähnliches.
-* * Interception: Backend immitieren, also so tun, als ob ein Backend antworten würde, z.B. indem bestimmte Testdaten aus Dateien geladen werden oder indem Testdaten direkt in der spec.ts-Datei drinstehen, wie die 1000 und die 12345, nach denen du gestern gefragt hast. 
+* Interception: Backend immitieren, also so tun, als ob ein Backend antworten würde, z.B. indem bestimmte Testdaten aus Dateien geladen werden oder indem Testdaten direkt in der spec.ts-Datei drinstehen, wie die 1000 und die 12345, nach denen du gestern gefragt hast. 
 
 
 -----------
